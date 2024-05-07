@@ -18,13 +18,16 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-#developed by:Tharun Sridhar
+#developed by : Tharun Sridhar
 
-#Register number:212223230230
+#Register number : 212223230230
 
 x=int(input())
+
 y=int(input())
+
 x,y = y,x
+
 print("Swapped values are:",format(x),format(y))
 
 OUTPUT:
