@@ -26,6 +26,8 @@ x,y = y,x
 print("Swapped values are:",format(x),format(y))
 
 OUTPUT:
+
+
 ![image](https://github.com/Tharun0707/Swapping-two-values/assets/145548496/0ec3b4b3-ce5c-4112-bcc2-e3de908877db)
 
 
